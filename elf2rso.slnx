@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="elf2rso.vcxproj" Id="070d4cc2-ba55-41ce-b7d2-4fcbcb113591" />
+</Solution>
